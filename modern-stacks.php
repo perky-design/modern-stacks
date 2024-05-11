@@ -1,13 +1,13 @@
 <?php
 /**
  * Plugin Name: Modern Stacks Fonts
- * Plugin URI: https://github.com/jooplaan/modern-stacks
+ * Plugin URI: https://github.com/perky-design/modern-stacks/
  * Description: Easily use the fonts from Modern Stacks https://modernfontstacks.com/
- * Version: 0.1.0
+ * Version: 0.1.1
  * Requires at least: 6.5
  * Requires PHP: 7.4
  * Author: Joop Laan
- * Author URI: https://jooplaan.com
+ * Author URI: https://perky.design
  * License: GPL-2.0+
  * Text Domain: modern-stacks
  * Domain Path: /languages

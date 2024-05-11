@@ -119,7 +119,7 @@ msgid "Modern Stacks Fonts"
 msgstr "Modern Stacks lettertypen"
 
 #. Plugin URI of the plugin/theme
-msgid "https://github.com/jooplaan/modern-stacks"
+msgid "https://github.com/perky-design/modern-stacks/"
 msgstr ""
 
 #. Description of the plugin/theme
@@ -133,5 +133,5 @@ msgid "Joop Laan"
 msgstr ""
 
 #. Author URI of the plugin/theme
-msgid "https://jooplaan.com"
+msgid "https://perky.design"
 msgstr ""
