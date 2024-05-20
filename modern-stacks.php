@@ -17,6 +17,12 @@
 
 /**
  *  Disallow direct access.
+ */
+if ( ! defined( 'ABSPATH' ) ) {
+	exit;
+}
+
+/**
  * Registers the font collection in the font library.
  * See: https://developer.wordpress.org/reference/functions/wp_register_font_collection/
  */
