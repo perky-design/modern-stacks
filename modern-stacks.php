@@ -8,7 +8,7 @@
  * Requires PHP: 7.4
  * Author: Joop Laan
  * Author URI: https://perky.design
- * License: GPL-2.0+
+ * License: GPLv3
  * Text Domain: modern-stacks
  * Domain Path: /languages
  *
