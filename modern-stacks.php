@@ -190,9 +190,3 @@ add_action(
 	}
 );
 
-/**
- * Render text with anti-aliasing.
- */
-function modern_stacks_css_head() {
-	echo '<style>-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;</style>';
-}
