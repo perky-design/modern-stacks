@@ -3,7 +3,7 @@
  * Plugin Name: Modern Stacks Fonts
  * Plugin URI: https://github.com/perky-design/modern-stacks/
  * Description: Easily use the fonts from Modern Stacks https://modernfontstacks.com/
- * Version: 0.1.1
+ * Version: 0.1.2
  * Requires at least: 6.5
  * Requires PHP: 7.4
  * Author: Joop Laan
