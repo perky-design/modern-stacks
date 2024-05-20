@@ -189,4 +189,3 @@ add_action(
 function modern_stacks_css_head() {
 	echo '<style>-webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;</style>';
 }
-add_action( 'wp_head', 'modern_stacks_css_head', 100 );
